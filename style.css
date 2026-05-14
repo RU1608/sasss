@@ -6,6 +6,13 @@
 }
 
 body {
+  background-color: #1a2238;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+
+body {
   background-color: #252B42;
   color: white;
 }
